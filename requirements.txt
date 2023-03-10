@@ -10,3 +10,4 @@ requests
 TgCrypto
 wget
 youtube-search-python==1.4.6
+git+https://github.com/ytdl-patched/yt-dlp
