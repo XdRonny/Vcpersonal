@@ -1,11 +1,11 @@
-<p align="center"><a href="https://t.me/TheAltron_X"><img src="https://te.legra.ph/file/7abe179ff252aaabbf2a5.jpg"></a></p>
+<p align="center"><a href="https://t.me/ll_Her_Boy_ll"><img src="https://te.legra.ph/file/7abe179ff252aaabbf2a5.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 # ㅤㅤㅤ Aʟᴛʀᴏɴ 🖤
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ᴀɴᴅ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝐀𝐋𝐓𝐑𝐎𝐍 🖤](https://t.me/Altron_X)
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤◄⏤͟͞ 𝙍𝙊𝙉𝙉𝙔 🥀 𓆩✘𓆪🖤](https://t.me/Ronny_support_chats)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # ㅤㅤㅤDᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
