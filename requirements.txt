@@ -4,10 +4,12 @@ asyncio
 pyrogram==1.4.16
 python-arq
 python-dotenv
-py-tgcalls==0.8.6
+py-tgcalls==0.9.1
 gitpython
 requests
 TgCrypto
 wget
 youtube-search-python==1.4.6
 git+https://github.com/ytdl-patched/yt-dlp
+speedtest-cli
+youtube-search-python
