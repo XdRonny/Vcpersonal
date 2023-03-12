@@ -1,7 +1,7 @@
 aiofiles
 aiohttp
 asyncio
-pyrogram==1.4.16
+pyrogram==1.4.12
 python-arq
 python-dotenv
 py-tgcalls==0.9.1
